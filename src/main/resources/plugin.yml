@@ -1,0 +1,5 @@
+name: TweetAnnouncer
+main: nz.tzeentchful.tweet.TweetAnnouncer
+description: '${project.description}'
+author: Tzeentchful
+version: '${project.version}'
